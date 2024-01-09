@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "label": "Necklace",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "2",
+    "label": "Ring",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "3",
+    "label": "Earring",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "4",
+    "label": "Cufflink",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "5",
+    "label": "Beads",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "6",
+    "label": "Ornaments",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  },
+  {
+    "id": "7",
+    "label": "Pearls",
+    "icon": "ChevronRightIcon",
+    "link": "/"
+  }
+]
